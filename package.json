@@ -1,13 +1,13 @@
 {
     "name": "mini-signup-form",
     "version": "1.0.0",
-    "description": "미니 사전과제 1. 회원가입 폼 - for FastCampus 30개 프로젝트로 배우는 프론트엔드 웹 개발 (with React)",
+    "description": "",
     "main": "index.js",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/hanameee/mini-signup-form.git"
     },
-    "author": "hanameee",
+    "author": "SOL-hub",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/hanameee/mini-signup-form/issues"
